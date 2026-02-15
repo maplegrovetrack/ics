@@ -1,6 +1,0 @@
-# Node dependencies
-node_modules
-
-# Misc
-.idea
-dist
