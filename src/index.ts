@@ -128,7 +128,7 @@ const meets: EventAttributes[] = [
   }),
   baseEvent({
     start: [2026, 4, 28],
-    end: [2026, 4, 30],
+    end: [2026, 4, 29],
     title: 'Crimson Invite',
     location: 'Maple Grove Senior High',
     description: 'https://maplegrovetrack.github.io/meets#thursday-april-30-2026'
