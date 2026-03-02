@@ -311,7 +311,7 @@ const callback: NodeCallback = (error, value) => {
   }
   rmSync('dist', { recursive: true, force: true })
   mkdirSync('dist')
-  writeFileSync('dist/other.ics', value, 'utf-8')
+  writeFileSync('dist/calendar.ics', value, 'utf-8')
 }
 
 createEvents(events, callback)
